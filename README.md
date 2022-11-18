@@ -1,6 +1,11 @@
 # unscrambled-game
 PROJECT DESCRIPTION: A user is tasked with arranging a string of arbitrary length containing a certain number or words into each word that is contained within the string through a series of predetermined manipulations to the string.
 
+Developed the framework in which the game operates.
+Validated each move the player made to ensure it is within the standing of the rules.
+Provided 'hints' for users using a mathematical understanding of the nature of the game.
+
+
 COLLABORATOR: Mayushan Mayurathan
 
 NOTE: unscramble_functions.py is the sole file that contains the collborator's work on this project.
